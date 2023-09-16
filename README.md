@@ -17,7 +17,7 @@ ChatBox is an online messaging platform developed using PHP, AJAX, and MySQL. It
 
 ## Screenshots
 
-Include screenshots or images to give users a visual preview of your ChatBox platform
+Include screenshots or images to give users a visual preview of The ChatBox platform
 
 ### Global Chat
 The **Global Chat** feature in ChatBox allows users to engage in real-time conversations with a diverse community of users from around the world. It provides a platform for open discussions, sharing ideas, and making new friends. Users can send and receive text messages
