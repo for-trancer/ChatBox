@@ -88,6 +88,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 
-If you have any questions or suggestions, please feel free to contact us at [mrfortrancer@gmail.com].
+If you have any questions or suggestions, please feel free to contact me at [mrfortrancer@gmail.com].
 
 Happy chatting!
