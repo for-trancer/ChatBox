@@ -56,8 +56,11 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 3. **Database Setup**:
 
-   - Create a MySQL database for ChatBox.
-   - Import the provided SQL schema to create the necessary tables.
+   - Create a MySQL database using the [schema.sql](schema.sql)
+   - Import the provided SQL schema into the mysql to create the database and tables.
+   ```shell
+   source path-to schema.sql
+   ```
 
 4. **Configuration**:
 
