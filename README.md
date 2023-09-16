@@ -27,7 +27,7 @@ The **Global Chat** feature in ChatBox allows users to engage in real-time conve
 ### Personal Messaging
 The **Personal Messaging** feature in ChatBox enables users to have private one-on-one conversations with other users. It offers a more intimate and secure space for sharing thoughts, making plans, or simply having a private conversation. Users can send text messages and descriptions privately to specific individuals, ensuring that their communication remains confidential and personalized
 
-![Personal Messaging](images/personal_chat.png)
+![Personal Messaging](images/personal-chat.png)
 
 ### Sign Up
 The **Sign Up** feature allows new users to create accounts on ChatBox. During the Sign Up process, users provide essential information such as their username, email address, and password. Input validation checks are applied to ensure that the provided information is valid and secure. Once registered, users can access all the features of ChatBox, including the global chat and personal messaging.
