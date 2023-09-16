@@ -51,7 +51,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 2. **Clone the Repository**:
 
    ```shell
-   git clone https://github.com/yourusername/ChatBox.git
+   git clone https://github.com/for-trancer/ChatBox.git
    ```
 
 3. **Database Setup**:
